@@ -1,0 +1,5 @@
+Experimento0: -411822747
+Experimento1: 762203702
+Experimento2: -132252143
+Experimento3: -375300847
+Experimento4: -196451075
